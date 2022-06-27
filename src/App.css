@@ -1,0 +1,20 @@
+.jumbotron {
+  background-color: blueviolet;
+  color: #fff;
+  padding: 100px 0;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.brand-icon {
+    font-size: 100px;
+}
+.card{
+  display: flex;
+}
+
+.box{
+  display: flex;
+}
